@@ -1,0 +1,47 @@
+Day 6 Progress Notes - 100 Days of Code Challenge
+
+Date: 08 Nov, 2023
+
+Topics Covered:
+- Code Blocks and Indentation
+- Defining and Calling Functions
+- Practice with While Loops
+- Conditional Statements
+- Interactive Coding on 'Reebor's World'
+
+Summary:
+
+On Day 6, I focused on deepening my understanding of Python functions, while loops, and conditional statements. Here's a breakdown of my progress:
+
+1. Code Blocks and Indentation:
+   - Explanation of the importance of code blocks and proper indentation in Python.
+   - How indentation affects the structure of code.
+
+2. Defining and Calling Functions:
+   - What functions are and why they are useful.
+   - Examples of defining and calling functions with arguments.
+
+3. Practice with While Loops:
+   - Introduction to the while loop and its usage in repetitive tasks.
+   - Examples of while loop usage in coding exercises.
+
+4. Conditional Statements:
+   - Overview of conditional statements (if, elif, else) and their role in decision-making.
+   - Practical examples of conditional statements.
+
+5. Interactive Coding on 'Reebor's World':
+   - A brief description of the 'Reebor's World' coding platform.
+   - Challenges completed on the platform using loops, functions, and conditional statements.
+
+Challenges Completed:
+- Hurdle 1
+- Hurdle 2
+- Hurdle 3
+- Hurdle 4
+- Maze
+
+Reflection:
+- Share your thoughts and insights about the day's learning experience.
+- Mention any challenges faced and how you overcame them.
+
+---
