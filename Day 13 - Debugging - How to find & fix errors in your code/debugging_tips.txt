@@ -1,0 +1,43 @@
+Debugging Pro Tips:
+
+1. Describe the Problem:
+   - Why it's Important: Clearly defining the problem sets the foundation for effective debugging. It helps you understand the issue and communicate it to others.
+   - Action: Write down a concise description of the problem. Include details like error messages, unexpected behavior, or anything unusual.
+
+2. Reproduce the Bug:
+   - Why it's Important: Reproducing the bug allows you to observe its behavior and understand the conditions under which it occurs.
+   - Action: Create a minimalistic test case that reproduces the bug reliably. Simplify the code to focus on the problematic area.
+
+3. Play Computer's Role & Evaluate Each Line:
+   - Why it's Important: Understanding how the computer processes each line of code helps identify the point of failure.
+   - Action: Go through the code line by line, imagining the computer's execution. Check variables, conditions, and statements to spot potential issues.
+
+4. Fixing Errors & Watching for Red Underlines:
+   - Why it's Important: Fixing syntax errors and paying attention to red underlines helps maintain a clean and error-free codebase.
+   - Action: Address any syntax errors immediately. Most code editors provide visual cues, such as red underlines, for syntax issues.
+
+5. Squash Bugs with a `print()` Statement:
+   - Why it's Important: Adding print statements strategically allows you to inspect the state of your program at different points.
+   - Action: Insert print statements in critical areas to output variable values, messages, or checkpoints. Analyze the printed information to trace the code flow.
+
+6. Use a Debugger (e.g., Thonny Editor, Python Tutor):
+   - Why it's Important: Debuggers provide a powerful way to step through code, inspect variables, and identify issues.
+   - Action: Explore the features of a debugger in your preferred development environment. Set breakpoints, step through code execution, and inspect variables.
+
+7. Take a Break:
+   - Why it's Important: Stepping away from the code temporarily can clear your mind and provide a fresh perspective.
+   - Action: If you feel stuck, take a short break. Engage in a different task or activity, and return to the code with a renewed focus.
+
+8. Ask a Friend:
+   - Why it's Important: Collaboration can bring new insights and alternative perspectives to the problem.
+   - Action: Reach out to a friend or colleague, explain the issue, and seek their input. A second pair of eyes can catch things you might have overlooked.
+
+9. Run Your Code Often (After Every Little Execution):
+   - Why it's Important: Regularly testing your code helps catch issues early in the development process.
+   - Action: Test individual functions or sections of your code as you build them. This practice helps identify and address problems before they compound.
+
+10. Ask StackOverflow:
+    - Why it's Important: Online communities, like Stack Overflow, provide a wealth of knowledge and support from experienced developers.
+    - Action: If you encounter a challenging problem, search for similar issues on Stack Overflow. If you can't find a solution, consider posting a well-described question to seek assistance.
+
+Remember, debugging is a valuable skill that improves with practice. Each debugging session contributes to your understanding of code and problem-solving abilities. Happy coding!
