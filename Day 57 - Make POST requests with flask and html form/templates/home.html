@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form</title>
+</head>
+
+<body>
+    <form action="{{ url_for('authenticate') }}" method="POST">
+        <label for="1">Name: </label>
+        <input type="text" name="name" id="1" placeholder="Name">
+        <br>
+        <br>
+        <label for="2">Password: </label>
+        <input type="password" name="password" id="2" placeholder="password">
+        <br>
+        <br>
+        <button type="submit">Ok</button>
+    </form>
+</body>
+
+</html>
