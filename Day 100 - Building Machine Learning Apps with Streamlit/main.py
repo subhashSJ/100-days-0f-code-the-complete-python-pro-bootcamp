@@ -5,6 +5,11 @@ import pandas as pd
 from sklearn.preprocessing import StandardScaler
 import seaborn as sns
 import matplotlib.pyplot as plt
+import sys
+import path
+
+dir = path.Path(__file__).abspath()
+sys.path.append(dir.parent.parent)
 
 
 def diabetes_prediction(input_data):
